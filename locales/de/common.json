@@ -1,0 +1,40 @@
+{
+  "site": {
+    "name": "Mdisells Sport ParlAI",
+    "description": "Die weltweit anerkannteste Sportwetten-Plattform"
+  },
+  "nav": {
+    "home": "Startseite",
+    "sports": "Sport",
+    "parlays": "Kombiwetten",
+    "bots": "Bots",
+    "insights": "Einblicke",
+    "fantasy": "Fantasy",
+    "leaderboard": "Bestenliste",
+    "contests": "Wettbewerbe",
+    "whitepaper": "Whitepaper",
+    "support": "Support",
+    "profile": "Profil",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "title": "Sportwetten der nächsten Generation",
+    "subtitle": "Angetrieben von KI und Blockchain-Technologie",
+    "cta": "Jetzt Wetten"
+  },
+  "features": {
+    "ai": "KI-gestützte Vorhersagen",
+    "blockchain": "Blockchain-Sicherheit",
+    "parlays": "Intelligente Kombiwetten",
+    "rewards": "Exklusive Belohnungen"
+  },
+  "dashboard": {
+    "welcome": "Willkommen zurück",
+    "balance": "Guthaben",
+    "bets": "Aktive Wetten",
+    "history": "Wetthistorie",
+    "recommendations": "Empfohlene Wetten"
+  }
+}

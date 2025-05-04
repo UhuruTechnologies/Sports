@@ -1,0 +1,40 @@
+{
+  "site": {
+    "name": "Mdisells Sport ParlAI",
+    "description": "The world's most acclaimed sports betting platform"
+  },
+  "nav": {
+    "home": "Home",
+    "sports": "Sports",
+    "parlays": "Parlays",
+    "bots": "Bots",
+    "insights": "Insights",
+    "fantasy": "Fantasy",
+    "leaderboard": "Leaderboard",
+    "contests": "Contests",
+    "whitepaper": "Whitepaper",
+    "support": "Support",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "title": "Next Generation Sports Betting",
+    "subtitle": "Powered by AI and Blockchain Technology",
+    "cta": "Start Betting"
+  },
+  "features": {
+    "ai": "AI-Powered Predictions",
+    "blockchain": "Blockchain Security",
+    "parlays": "Smart Parlays",
+    "rewards": "Exclusive Rewards"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "balance": "Balance",
+    "bets": "Active Bets",
+    "history": "Betting History",
+    "recommendations": "Recommended Bets"
+  }
+}

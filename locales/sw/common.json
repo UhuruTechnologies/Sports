@@ -1,0 +1,40 @@
+{
+  "site": {
+    "name": "Mdisells Sport ParlAI",
+    "description": "Jukwaa la michezo ya kubashiri linalotambuliwa zaidi duniani"
+  },
+  "nav": {
+    "home": "Nyumbani",
+    "sports": "Michezo",
+    "parlays": "Bashiri za Pamoja",
+    "bots": "Roboti",
+    "insights": "Uchanganuzi",
+    "fantasy": "Fantasy",
+    "leaderboard": "Ubao wa Viongozi",
+    "contests": "Mashindano",
+    "whitepaper": "Hati Nyeupe",
+    "support": "Msaada",
+    "profile": "Wasifu",
+    "login": "Ingia",
+    "register": "Jiandikishe",
+    "dashboard": "Dashibodi"
+  },
+  "hero": {
+    "title": "Ubashiri wa Michezo wa Kizazi Kipya",
+    "subtitle": "Inaendeshwa na Teknolojia ya AI na Blockchain",
+    "cta": "Anza Kubashiri"
+  },
+  "features": {
+    "ai": "Utabiri Unaotumia AI",
+    "blockchain": "Usalama wa Blockchain",
+    "parlays": "Bashiri za Pamoja za Kisasa",
+    "rewards": "Zawadi za Kipekee"
+  },
+  "dashboard": {
+    "welcome": "Karibu tena",
+    "balance": "Salio",
+    "bets": "Bashiri Zinazoendelea",
+    "history": "Historia ya Bashiri",
+    "recommendations": "Bashiri Zilizopendekezwa"
+  }
+}

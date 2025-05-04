@@ -1,0 +1,40 @@
+{
+  "site": {
+    "name": "Mdisells Sport ParlAI",
+    "description": "La plataforma de apuestas deportivas más aclamada del mundo"
+  },
+  "nav": {
+    "home": "Inicio",
+    "sports": "Deportes",
+    "parlays": "Apuestas Combinadas",
+    "bots": "Bots",
+    "insights": "Análisis",
+    "fantasy": "Fantasy",
+    "leaderboard": "Clasificación",
+    "contests": "Concursos",
+    "whitepaper": "Libro Blanco",
+    "support": "Soporte",
+    "profile": "Perfil",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "dashboard": "Panel"
+  },
+  "hero": {
+    "title": "Apuestas Deportivas de Nueva Generación",
+    "subtitle": "Impulsado por IA y Tecnología Blockchain",
+    "cta": "Comenzar a Apostar"
+  },
+  "features": {
+    "ai": "Predicciones Impulsadas por IA",
+    "blockchain": "Seguridad Blockchain",
+    "parlays": "Apuestas Combinadas Inteligentes",
+    "rewards": "Recompensas Exclusivas"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido de nuevo",
+    "balance": "Saldo",
+    "bets": "Apuestas Activas",
+    "history": "Historial de Apuestas",
+    "recommendations": "Apuestas Recomendadas"
+  }
+}

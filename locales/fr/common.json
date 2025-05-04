@@ -1,0 +1,40 @@
+{
+  "site": {
+    "name": "Mdisells Sport ParlAI",
+    "description": "La plateforme de paris sportifs la plus acclamée au monde"
+  },
+  "nav": {
+    "home": "Accueil",
+    "sports": "Sports",
+    "parlays": "Paris Combinés",
+    "bots": "Robots",
+    "insights": "Analyses",
+    "fantasy": "Fantasy",
+    "leaderboard": "Classement",
+    "contests": "Concours",
+    "whitepaper": "Livre Blanc",
+    "support": "Support",
+    "profile": "Profil",
+    "login": "Connexion",
+    "register": "Inscription",
+    "dashboard": "Tableau de Bord"
+  },
+  "hero": {
+    "title": "Paris Sportifs de Nouvelle Génération",
+    "subtitle": "Propulsé par l'IA et la Technologie Blockchain",
+    "cta": "Commencer à Parier"
+  },
+  "features": {
+    "ai": "Prédictions Alimentées par l'IA",
+    "blockchain": "Sécurité Blockchain",
+    "parlays": "Paris Combinés Intelligents",
+    "rewards": "Récompenses Exclusives"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue",
+    "balance": "Solde",
+    "bets": "Paris Actifs",
+    "history": "Historique des Paris",
+    "recommendations": "Paris Recommandés"
+  }
+}
